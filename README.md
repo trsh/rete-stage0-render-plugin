@@ -1,5 +1,8 @@
-Stage0 Render
+MOVED TO https://github.com/retejs/rete-stage0-render-plugin
 ====
+
+Stage0 Render
+
 #### Rete.js plugin
 
 Rete renderer using https://www.npmjs.com/package/stage0 (~1.6 kb framewok)
